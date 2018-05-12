@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26284
     wikipedia: http://en.wikipedia.org/wiki/Ling_Mengchu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26729#------
 gutenberg_issued: '2008-09-30'
 gutenberg_type: Text
 identifiers:
