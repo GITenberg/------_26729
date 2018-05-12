@@ -1,0 +1,31 @@
+_repo: '------_26729'
+_version: 0.1.0
+alternative_title: Er Ke Pai An Jing Qi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ling, Mengchu
+    aliases:
+    - 凌蒙初
+    - 凌濛初
+    birthdate: 1580
+    deathdate: 1644
+    gutenberg_agent_id: '26284'
+    url: http://www.gutenberg.org/2009/agents/26284
+    wikipedia: http://en.wikipedia.org/wiki/Ling_Mengchu
+description: ''
+gutenberg_issued: '2008-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26729'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+title: 二刻拍案驚奇
+url: http://www.gutenberg.org/ebooks/26729
